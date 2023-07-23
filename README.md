@@ -21,7 +21,7 @@ The project consists of the following primary elements and technologies:
 ### Installing
 
 * Simply rebuilding the solution should be sufficient.
-* Before running a test you will need to manually point to the configuration file (local.runsettings)
+* Before running a test you will need to manually point to the configuration file (`local.runsettings`)
     * Open Test Explorer
     * Click Options --> Configure Run Settings
     * Select Solution Wide runsettings File
