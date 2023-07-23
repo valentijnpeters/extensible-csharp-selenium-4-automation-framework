@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+
+	<!-- Parameters used by tests at run time -->
+	<TestRunParameters>
+		<Parameter name="UrlUnderTest" value="https://www.wikipedia.org/" />
+		<Parameter name="RunHeadlessBrowser" value="false" />
+		<Parameter name="EnableIncognito" value="false" />
+		<Parameter name="TargetBrowser" value="Chrome" />
+	</TestRunParameters>
+
+</RunSettings>
