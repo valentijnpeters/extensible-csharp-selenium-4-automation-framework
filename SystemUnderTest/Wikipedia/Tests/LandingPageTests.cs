@@ -1,4 +1,4 @@
-﻿using extensible_csharp_selenium_4_automation_framework.SystemUnderTest.Shared;
+﻿using extensible_csharp_selenium_4_automation_framework.Base;
 using extensible_csharp_selenium_4_automation_framework.SystemUnderTest.Wikipedia.Pages;
 using NUnit.Framework;
 

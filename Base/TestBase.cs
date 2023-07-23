@@ -1,7 +1,6 @@
-﻿using extensible_csharp_selenium_4_automation_framework.Base;
-using NUnit.Framework;
+﻿using NUnit.Framework;
 
-namespace extensible_csharp_selenium_4_automation_framework.SystemUnderTest.Shared
+namespace extensible_csharp_selenium_4_automation_framework.Base
 {
     internal class TestBase
     {
