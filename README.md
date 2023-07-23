@@ -1,4 +1,4 @@
-# Extensible Java Selenium 4 Automation Framework
+# Extensible C Sharp Selenium 4 Automation Framework
 
 The purpose of this Framework is to serve as a functional demo and / or template to be used on projects and / or assist
 with training. This framework attempts to showcase a type of simple boilerplate Selenium 4 framework.
