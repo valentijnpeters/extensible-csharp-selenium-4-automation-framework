@@ -33,7 +33,7 @@ it searches for Chromedriver 83, we are at 123 at the moment.
 
 What I did was go to the ProjectExplorer, right click on everything and then Update (I updated everything)![extra5](https://github.com/valentijnpeters/extensible-csharp-selenium-4-automation-framework/assets/49692812/f71e88b3-5662-4f5c-a5fc-f85e26f4fc67)
 
-It still didn't work, but after changing in the file 'local.runsettings' to this: <Parameter name="TargetBrowser" value="Edge" /> everythying starting working smoothly. Edge to the rescue!
+It still didn't work, but after changing in the file 'local.runsettings' to this: Parameter name="TargetBrowser" value="Edge"  everythying starting working smoothly. Edge to the rescue!
 
 ### Executing tests
 
