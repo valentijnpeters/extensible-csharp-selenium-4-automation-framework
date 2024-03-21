@@ -28,8 +28,10 @@ The project consists of the following primary elements and technologies:
     * Select Solution Wide runsettings File
     * Point to the configuration file that should be in: `\Base\Configuration`![extra3](https://github.com/valentijnpeters/extensible-csharp-selenium-4-automation-framework/assets/49692812/b1963feb-f352-4500-a05a-f92c55419589)
 
-it searches for Chromedriver 83, we are at 123 at the moment. 
+
+...it searches for Chromedriver 83, we are at 123 at the moment.
 ![extra4](https://github.com/valentijnpeters/extensible-csharp-selenium-4-automation-framework/assets/49692812/2ffa7934-3974-4e1b-9eff-0f019d2603ba)
+
 
 What I did was go to the ProjectExplorer, right click on everything and then Update (I updated everything)![extra5](https://github.com/valentijnpeters/extensible-csharp-selenium-4-automation-framework/assets/49692812/f71e88b3-5662-4f5c-a5fc-f85e26f4fc67)
 
