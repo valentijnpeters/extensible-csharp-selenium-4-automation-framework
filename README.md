@@ -20,17 +20,25 @@ The project consists of the following primary elements and technologies:
 
 ### Installing
 
-* Simply rebuilding the solution should be sufficient.
+* Simply rebuilding the solution should be sufficient.![extra1](https://github.com/valentijnpeters/extensible-csharp-selenium-4-automation-framework/assets/49692812/17d3f80f-1fba-41ef-8c95-4b861262fbfa)
+
 * Before running a test you will need to manually point to the configuration file (`local.runsettings`)
     * Open Test Explorer
     * Click Options --> Configure Run Settings
     * Select Solution Wide runsettings File
-    * Point to the configuration file that should be in: `\Base\Configuration`
+    * Point to the configuration file that should be in: `\Base\Configuration`![extra3](https://github.com/valentijnpeters/extensible-csharp-selenium-4-automation-framework/assets/49692812/b1963feb-f352-4500-a05a-f92c55419589)
 
+it searches for Chromedriver 83, we are at 123 at the moment. 
+![extra4](https://github.com/valentijnpeters/extensible-csharp-selenium-4-automation-framework/assets/49692812/2ffa7934-3974-4e1b-9eff-0f019d2603ba)
+
+What I did was go to the ProjectExplorer, right click on everything and then Update (I updated everything)![extra5](https://github.com/valentijnpeters/extensible-csharp-selenium-4-automation-framework/assets/49692812/f71e88b3-5662-4f5c-a5fc-f85e26f4fc67)
+
+It still didn't work, but after changing in the file 'local.runsettings' to this: <Parameter name="TargetBrowser" value="Edge" /> everythying starting working smoothly. Edge to the rescue!
 
 ### Executing tests
 
-* Open Test Explorer
+* Open Test Explorer![extra2](https://github.com/valentijnpeters/extensible-csharp-selenium-4-automation-framework/assets/49692812/6b229095-039d-4819-beb1-022e644cbd4f)
+
 * Right-click a test and select `Run` or `Debug`
 
 ### Project Structure Overview
@@ -43,7 +51,7 @@ The project consists of the following primary elements and technologies:
 
 ### Authors
 
-* Bernard Visagie
+* Bernard Visagie, Valentijn Peters(for this Fork version README.md)
 
 ### License
 
